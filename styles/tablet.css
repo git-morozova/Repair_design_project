@@ -1,0 +1,7 @@
+/* iphone12 pro */
+@media (min-width: 380px) and (max-width: 1440px)  {
+    .container {
+        max-width:1440px;
+        padding: 0 20px;
+    } 
+}
