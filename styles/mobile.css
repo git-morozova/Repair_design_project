@@ -84,7 +84,7 @@
 
 
 /* HEADER */
-    .header-inner {
+    .menu-inner {
         height: 57px;
     } 
 /* /HEADER */
@@ -98,9 +98,8 @@
     } 
 
     .hero-block {
-        margin-top: 77px;
         padding: 0 0px;
-        margin-bottom: 60px;
+        margin: 77px auto 60px auto;
     } 
 
     .hero-text {
@@ -149,7 +148,7 @@
 
     .proj-main {
         padding-top: 30px;
-        margin-right: 0;
+        margin: 0 auto;
     }
 
     .proj-text {
@@ -285,7 +284,9 @@
       .types-blocks-block {
         padding-bottom: 59px;
       }
-
+      .types-blocks-block img {
+        margin: 0 auto;
+    }
       .types-blocks-block__text {
         margin: -141px 0 -19px -1px;  
         max-width: 270px;   
