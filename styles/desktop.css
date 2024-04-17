@@ -750,12 +750,9 @@ input::placeholder {
 /* PORTFOLIO */
 .portfolio {
 	width: 100%;
-	background-image: url(../img/back2.jpg);
-	background-attachment: fixed;
-	background-position: center;
-	background-size: cover;
 	height: 864px;
 	transition: all 0.1s ease 0s;
+	background: url(../img/back2.jpg) fixed center / cover;
 }
 
 .portfolio-inner {
