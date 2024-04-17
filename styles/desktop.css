@@ -943,10 +943,7 @@ input::placeholder {
 	margin-top: -222px;
 	padding-top: 272px;
 	height: 954px;
-	background-image: url(../img/back4.jpg);
-	background-attachment: fixed;
-	background-position: center;
-	background-size: cover;
+	background: url(../img/back4.jpg) fixed center / cover;
 	transition: all 0.1s ease 0s;
 }
 
