@@ -67,15 +67,16 @@
             position: relative;
         }
     
-        .gallery-img__left {
+        .gallery-img__left, .gallery-img__right {
             position: absolute;
             top: 43%;
+        }
+        
+        .gallery-img__left {
             left: 15px;
         }
     
         .gallery-img__right {
-            position: absolute;
-            top: 43%;
             right: 15px;
         }
     
