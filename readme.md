@@ -5,4 +5,4 @@
 ### Инструменты:
 - HTML5, CSS3, PerfectPixel, Figma, валидатор
 
-Доступен в [Pages](https://git-morozova.github.io/Repair_design_project/)
+Доступен в [Pages](https://git-morozova.github.io/Repair_design_project/) 
