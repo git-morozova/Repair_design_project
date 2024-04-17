@@ -614,12 +614,10 @@ input::placeholder {
 
 .types-blocks-block__text {
 	position: relative;
-	margin: 0 31px;
-	margin-top: -128px;
+	margin: -128px 31px -0.5em 31px;
 	background-color: #fff;
 	max-width: 330px;
 	padding: 26px 34px 32px 34px;
-	margin-bottom: -0.5em;
 }
 
 .types-blocks-block__text-header {
